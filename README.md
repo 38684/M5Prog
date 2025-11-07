@@ -78,3 +78,23 @@ Ik heb de schip script opgesplit.
 Ik heb de movement scripts gecombineerd en de message scripts gecombineerd.
 
 [Github Link](https://github.com/38684/Space48)
+
+## PROG les 5: OOP Inheritance
+
+### Opdracht 8: Inheritance
+
+Ik heb inheritance gebruikt.
+
+![Player shooting enemies](Gifs/ShootEnemies.gif)
+
+[Shoot From Camera Script](M5Prog/Assets/Scripts/05_OOP_Inherritance/ShootFromCamera.cs) \
+[Projectile Script](M5Prog/Assets/Scripts/05_OOP_Inherritance/Projectile.cs) \
+[Enemy Parent Script](M5Prog/Assets/Scripts/05_OOP_Inherritance/EnemyParent.cs) \
+[Brute Script](M5Prog/Assets/Scripts/05_OOP_Inherritance/Brute.cs) \
+[Elf Script](M5Prog/Assets/Scripts/05_OOP_Inherritance/Elf.cs)
+
+### Opdracht 9, Encapsulation
+
+Ik heb elke variable een voor een alle encapsulation veranderd
+
+[PDF Link](Dependencies.pdf)
